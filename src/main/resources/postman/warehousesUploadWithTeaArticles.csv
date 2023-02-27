@@ -1,0 +1,5 @@
+Article,Category,Amount,CurrencyCode,Country,Status,Aisle,Shelf,Tray,Quantity
+Früchtetee,Tee,4.8,CHF,Schweiz,ACTIVE,A,1,1,50
+Schwarztee,Tee,3.5,CHF,Schweiz,ACTIVE,Z,99,50,100
+Grüntee,Tee,3.9,CHF,Schweiz,ACTIVE,B,1,2,33
+Pulverkaffee,Kaffee,10,CHF,Schweiz,ACTIVE,B,1,1,100
